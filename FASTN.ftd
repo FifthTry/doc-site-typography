@@ -1,0 +1,7 @@
+-- import: fastn
+
+-- fastn.package: fifthtry.github.io/doc-site-typography
+download-base-url: https://raw.githubusercontent.com/fifthtry/doc-site-typography/main
+
+-- fastn.dependency: fifthtry.github.io/inter-font
+
