@@ -8,14 +8,14 @@
 
 -- ftd.type heading-hero-mobile:
 line-height.px: 48
-size.px: 40
+size.px: 52
 letter-spacing.px: 0
 weight: 700
 font-family: $inter-assets.fonts.Inter
 
 -- ftd.type heading-hero-desktop:
 line-height.px: 48
-size.px: 40
+size.px: 52
 letter-spacing.px: 0
 weight: 700
 font-family: $inter-assets.fonts.Inter
