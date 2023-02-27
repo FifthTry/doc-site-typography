@@ -237,7 +237,7 @@ mobile: $label-small-mobile
 
 
 -- ftd.type fine-print-mobile:
-line-height.px: 16
+line-height.px: 18
 size.px: 14
 letter-spacing.px: 0
 weight: 400
@@ -245,7 +245,7 @@ font-family: $inter-assets.fonts.Inter
 
 
 -- ftd.type fine-print-desktop:
-line-height.px: 16
+line-height.px: 18
 size.px: 14
 letter-spacing.px: 0
 weight: 400
