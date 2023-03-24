@@ -439,11 +439,6 @@ types: $types
 
 
 
--- display-type:
-types: $types
-
-
-
 -- component display-type:
 ftd.type-data types:
 
